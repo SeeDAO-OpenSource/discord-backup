@@ -2,6 +2,8 @@
 
 Discord 历史频道信息记录归档 (2023.3 以前)
 
+![Cover Image](cover.png)
+
 ## Getting Started
 
 1. 打开网页 [https://seedao-opensource.github.io/discord-backup/](https://seedao-opensource.github.io/discord-backup/)
