@@ -9,4 +9,5 @@ Discord 历史频道信息记录归档 (2023.3 以前)
 
 ## Notes
 
-使用工具 [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) 输出 HTML，版本号 2.39.0。
+1. 使用工具 [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) 输出 HTML，版本号 2.39.0。
+2. 图档的部份主要怕 discord 过期, 一些和 SeeDAO 相关, 大小在 500x500 以上的图备份于 `images/` 中。
