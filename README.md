@@ -1,7 +1,12 @@
-# discord-backup
+# Discord Backup
 
 Discord 历史频道信息记录归档 (2023.3 以前)
 
 ## Getting Started
 
-浏览历史纪录: [https://seedao-opensource.github.io/discord-backup/](https://seedao-opensource.github.io/discord-backup/)
+1. 打开网页 [https://seedao-opensource.github.io/discord-backup/](https://seedao-opensource.github.io/discord-backup/)
+2. 选择历史频道，点击浏览历史纪录
+
+## Notes
+
+使用工具 [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) 输出 HTML，版本号 2.39.0。
